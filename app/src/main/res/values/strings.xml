@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Yelp</string>
+    <string name="location_hint">enter location</string>
+    <string name="business_hint">enter category name</string>
+    <string name="search">search</string>
+    <string name="location_field_error">location cannot be empty</string>
+    <string name="category_field_error">category cannot be empty</string>
 </resources>
